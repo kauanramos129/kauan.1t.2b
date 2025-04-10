@@ -6,10 +6,6 @@
     --cor-destaque: #C92BFC;
 }
 
-<body style="background-color: lightblue;">
-    <h1>Bem-vindo ao meu site!</h1>
-</body>
-
 body {
     font-family: 'Chakra Petch', sans-serif;
     color: var(--cor-principal);
